@@ -1,0 +1,9 @@
+{
+  "name": "repair",
+  "version": "1.0.0",
+  "description": "指尖修复师：登录与云存档",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}
